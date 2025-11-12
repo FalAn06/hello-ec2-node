@@ -3,7 +3,7 @@
 ## 📝 Description
 
 This project deploys a simple **Node.js "Hello World" web application** using **Docker** on an **Amazon EC2 instance**.  
-It was created as part of the academic research on **Cloud Service Providers** by **Andy Cha** at the **Central University of Ecuador** (November 2025).
+It was created as part of the academic research on **Cloud Service Providers** by **Anthony Chamorro** at the **Central University of Ecuador** (November 2025).
 
 ## 🛠️ Technologies Used
 
