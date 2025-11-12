@@ -20,16 +20,16 @@ It was created as part of the academic research on **Cloud Service Providers** b
 - **Image Size:** ~120 MB
 
 You can pull it with:
-```bash
+
 docker pull chamorrito/hello-ec2-node:latest
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 Public URL: http://98.95.228.166/
 
 Status: ✅ Running on AWS EC2 with auto-restart enabled
 
-🧩 Local Execution
+##🧩 Local Execution
 Option 1: Run with Docker
 # Pull image
 docker pull chamorrito/hello-ec2-node:latest
@@ -49,7 +49,8 @@ docker build -t hello-ec2-node .
 
 # Run container
 docker run -d -p 8080:80 hello-ec2-node
-🚀 Deployment Steps (AWS EC2)
+
+##🚀 Deployment Steps (AWS EC2)
 
 Create EC2 instance (Amazon Linux 2, t2.micro)
 
@@ -69,7 +70,7 @@ docker run -d -p 80:80 --restart always chamorrito/hello-ec2-node
 Assign Elastic IP to your instance
 Access your app → http://98.95.228.166/
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Anthony Chamorro
 Student – Central University of Ecuador
