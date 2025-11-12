@@ -29,7 +29,7 @@ Public URL: http://98.95.228.166/
 
 Status: ✅ Running on AWS EC2 with auto-restart enabled
 
-##🧩 Local Execution
+## 🧩 Local Execution
 Option 1: Run with Docker
 # Pull image
 docker pull chamorrito/hello-ec2-node:latest
