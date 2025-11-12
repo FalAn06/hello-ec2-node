@@ -50,7 +50,7 @@ docker build -t hello-ec2-node .
 # Run container
 docker run -d -p 8080:80 hello-ec2-node
 
-##🚀 Deployment Steps (AWS EC2)
+## 🚀 Deployment Steps (AWS EC2)
 
 Create EC2 instance (Amazon Linux 2, t2.micro)
 
