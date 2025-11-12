@@ -52,7 +52,7 @@ docker run -d -p 8080:80 hello-ec2-node
 
 ## 🚀 Deployment Steps (AWS EC2)
 
-Create EC2 instance (Amazon Linux 2, t2.micro)
+Create EC2 instance (Amazon Linux 2, t3.micro)
 
 Install Docker
 sudo yum update -y
